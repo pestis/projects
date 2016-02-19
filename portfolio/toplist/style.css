@@ -1,0 +1,32 @@
+*{
+    box-sizing:border-box;
+}
+
+.description {
+    color:#7C8B88;
+    max-width:705px;
+    
+    
+}
+.screenshot{
+    max-width:460px;
+}
+
+.app{
+    display:flex;
+}
+
+.image{
+    margin-right:30px;
+}
+
+.title{
+    margin-top:30px;
+    padding-top:30px;
+    border-top:30px;
+    background-color:#33BEBE;
+    color:white;
+    font-family:Geneva
+ 
+    
+}
